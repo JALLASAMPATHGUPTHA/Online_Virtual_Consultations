@@ -1,3 +1,4 @@
-Admin crediantial 
-username: admin
-password: admin
+Admin Credentials
+
+Username: admin
+Password: admin
